@@ -1,0 +1,3 @@
+[submodule "ggnfs"]
+	path = ggnfs
+	url = https://bitbucket.org/kingbowser/ggnfs.git
